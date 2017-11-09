@@ -2,7 +2,7 @@
 title: "example_r_challenges"
 output: html_document
 
---- type:MultipleChoiceChallenge key:167A4VcDii9Ku
+--- type:MultipleChoiceChallenge key:560ZK1NQSY8z9
 ## True basics
 
 *** =assignment1
@@ -42,7 +42,7 @@ Which function is used to view the contents of your workspace?
 - `view_workspace()`
 
 
---- type:OutputChallenge key:167oSz8A19yBt
+--- type:OutputChallenge key:
 ## Identify the class of an object
 
 *** =code
@@ -65,7 +65,7 @@ var1:
   - 'c("-2", "3")'
   - 'c(12, -10)'
 
---- type:BlanksChallenge key:167y3A7MS2X70
+--- type:BlanksChallenge key:
 ## Create a vector
 
 *** =code
