@@ -2,7 +2,7 @@
 title: "example_r_challenges"
 output: html_document
 
---- type:MultipleChoiceChallenge key:560EqeLOsv2ZW
+--- type:MultipleChoiceChallenge key:560Fvi0JeNaBB
 ## True basics
 
 *** =assignment1
