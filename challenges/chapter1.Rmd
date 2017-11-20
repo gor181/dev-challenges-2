@@ -42,7 +42,7 @@ Which function is used to view the contents of your workspace?
 - `view_workspace()`
 
 
---- type:OutputChallenge key:
+--- type:OutputChallenge key:560xC0zTn1Vy3
 ## Identify the class of an object
 
 *** =code
@@ -65,7 +65,7 @@ var1:
   - 'c("-2", "3")'
   - 'c(12, -10)'
 
---- type:BlanksChallenge key:
+--- type:BlanksChallenge key:560R3vpukDOvx
 ## Create a vector
 
 *** =code
